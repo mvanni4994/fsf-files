@@ -1,2 +1,3 @@
 # fsf-files
-first repo
+
+This is a repository where I keep my files for FSF Boot Camp.
